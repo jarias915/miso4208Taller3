@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="failedlogin"
+    errors="0" failures="0" hostname="" id="" package="failedlogin" skipped="0"
+    tests="2" time="72.22" timestamp="Wed, 30 Aug 2017 17:03:21 GMT">
+  
+    <testcase name="Los estudiantes login failed" classname="failedlogin" time="35.87" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Los estudiantes login correct" classname="failedlogin" time="36.35" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
